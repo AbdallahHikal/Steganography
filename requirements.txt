@@ -1,0 +1,8 @@
+ **نزل المكتبات:**
+```bash=terminal
+pip install customtkinter pillow numpy opencv-python
+```
+ **شغل البرنامج:**
+```bash=terminal
+python steganography_app.py
+```
